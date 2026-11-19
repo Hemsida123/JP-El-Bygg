@@ -1,0 +1,27 @@
+JP’S EL & BYGG – WEBBPLATS
+
+Öppna index.html för att se startsidan. Alla bilder och typsnitt finns lokalt i assets. Ladda upp hela innehållet i denna mapp, inte bara index.html. Filernas namn och struktur måste behållas.
+
+GITHUB PAGES
+1. Packa upp ZIP-filen.
+2. Ladda upp samtliga filer och assets-mappen i ditt GitHub-repository.
+3. Aktivera Pages för rätt branch och rotmapp i Settings > Pages.
+Ingen installation eller byggprocess behövs.
+
+INNEHÅLL
+Startsida, tjänsteöversikt, nybyggnation, renovering, elinstallationer, markarbete, projektöversikt, tre projektsidor, om oss, kontakt, integritet och felsida.
+Telefon: 0240-650 084. E-post: info@jpsab.se.
+Kontaktknapparna använder telefon och mejl. De är inte ett formulär eller en onlinebokning.
+
+BILDER OCH KÄLLOR
+Bilder, ursprunglig logotyp och företagets uppgifter kommer från jpsab.se. Originalbilderna är högst omkring 960 pixlar breda; de har inte gjorts artificiellt större. För ännu skarpare fullskärmsbilder på stora skärmar rekommenderas originalfoton med högre upplösning från företaget.
+Inga videofiler hittades på ursprungssidan. Inga kundcitat eller stjärnbetyg har hittats på. En länk går till företagets Google-profil. Branschvinnare 2025 är verifierad på branschvinnare.se och presenteras som en ekonomisk utmärkelse, inte ett kundbetyg.
+Villkoren för företagets arkitekterbjudande finns tillsammans med erbjudandet.
+
+SÖKBARHET
+Varje sida har egen titel, beskrivning, huvudrubrik, kanonisk adress, delningsmetadata och strukturerad företagsinformation. sitemap.xml och robots.txt ingår. Innehållet finns i vanlig HTML och fungerar utan JavaScript.
+Kanoniska adresser och sitemap är förberedda för https://www.jpsab.se/. Om en annan slutlig domän används ska dessa adresser ändras. GitHub-länken kan användas för demonstration.
+Vid byte från den gamla webbplatsen behöver webbhotellet omdirigera de gamla adresserna /tjanster/, /om-oss/ och /kontakt/ till motsvarande .html-sidor. Registrera slutlig webbplats och sitemap i Google Search Console. Ingen placering på Google garanteras.
+
+INNAN DEN SKARPA LANSERINGEN
+Låt företaget godkänna texter, kontaktuppgifter, bilder, erbjudanden och integritetsinformation. Om analysverktyg eller kontaktformulär läggs till senare behöver integritetsinformationen anpassas.
